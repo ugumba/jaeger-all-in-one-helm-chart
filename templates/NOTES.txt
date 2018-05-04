@@ -1,0 +1,3 @@
+Get the Jaeger URL:
+
+  kubectl get service jaeger-query
